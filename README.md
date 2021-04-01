@@ -25,7 +25,7 @@
 </p>
 
 <H1 align='center'>Don8 Makers final project </H1>
-<p>
+<p align='center'>
 <a href="https://www.youtube.com/watch?v=epjusmKqPDY" target="_blank"><img src="https://github.com/bear99a9/don8/blob/main/assets/ezgif.com-gif-maker.gif" 
 alt="Don8 demo link to youtube" width="300" height="600"/></br>Click here for full demo</a>
 </p>
