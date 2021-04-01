@@ -23,3 +23,10 @@
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=bear99a9&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
+
+<H1 align='center'>Don8 Makers final project </H1>
+<p>
+<a href="https://www.youtube.com/watch?v=epjusmKqPDY" target="_blank"><img src="https://github.com/bear99a9/don8/blob/main/assets/ezgif.com-gif-maker.gif" 
+alt="Don8 demo link to youtube" width="300" height="600"/></br>Click here for full demo</a>
+</p>
+</p>
