@@ -1,8 +1,10 @@
 <h1 align='center'>
-  Hi, I'm Sean 👋 </br>
-  <a href="https://www.linkedin.com/in/sean-edwards-654a09195/"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  Hi, I'm Sean 👋 
 </h1>
 
+<p  align='center'>
+  <a href="https://www.linkedin.com/in/sean-edwards-654a09195/"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+ </p>
 
 <h3 align='center'>🛠 Tech Stack</h3>
 <p  align='center'>
