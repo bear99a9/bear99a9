@@ -27,6 +27,6 @@
 <H1 align='center'>Don8 Makers final project </H1>
 <p align='center'>
 <a href="https://github.com/bear99a9/don8#readme" target="_blank"><img src="https://github.com/bear99a9/don8/blob/main/assets/ezgif.com-gif-maker.gif" 
-alt="Don8 Repo" width="300" height="600"/></br>Click here for full demo</a>
+alt="Don8 Repo" width="300" height="600"/></br>Don8 Repo</a>
 </p>
 </p>
