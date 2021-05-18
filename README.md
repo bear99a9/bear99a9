@@ -8,16 +8,16 @@
 
 <h3 align='center'>🛠 Tech Stack</h3>
 <p  align='center'>
-- 💻 &nbsp; Ruby | Javascript 
+- 💻 &nbsp; C# | Ruby | Javascript | Typescript
 </p> 
 <p  align='center'>
-- 🌐 &nbsp; Rails | React-Native | HTML | CSS | JavaScript | Bootstrap 
+- 🌐 &nbsp; .NET| Rails | Angular | React-Native | HTML | CSS | JavaScript | Bootstrap 
 </p>
 <p  align='center'>
-- 🛢 &nbsp; PostgreSQL | MongoDB
+- 🛢 &nbsp; PostgreSQL | MongoDB | Azure Blob
 </p>
 <p  align='center'>
-- 🔧 &nbsp; Visual Studio code | Git
+- 🔧 &nbsp; Azure DevOps| Visual Studio 2019 | Visual Studio code | Git
 </p>
 </br>
 <p align='center'>
