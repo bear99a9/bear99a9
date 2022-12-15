@@ -8,25 +8,35 @@
 
 <h3 align='center'>🛠 Tech Stack</h3>
 <p  align='center'>
-- 💻 &nbsp; C# | Ruby | Javascript | Typescript
+- 💻 &nbsp; C# | Typescript | Ruby | Javascript 
 </p> 
 <p  align='center'>
-- 🌐 &nbsp; .NET| Rails | Angular | React-Native | HTML | CSS | JavaScript | Bootstrap 
+- 🌐 &nbsp; .NET | Angular | Rails | HTML | CSS | Bootstrap 
 </p>
 <p  align='center'>
-- 🛢 &nbsp; PostgreSQL | MongoDB | Azure Blob
+- 🛢 &nbsp; SQL | Azure Synaspe | Azure Blob | MongoDB
 </p>
 <p  align='center'>
-- 🔧 &nbsp; Azure DevOps| Visual Studio 2019 | Visual Studio code | Git
+- 🔧 &nbsp; Azure | Azure DevOps | Visual Studio 2022 | Visual Studio code | Git
 </p>
 </br>
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=bear99a9&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
 
+<H1 align='center'> Photo Manager </H1>
+<p align='center'>
+<a href="https://github.com/bear99a9/HolidayPhotoManager/blob/main/README.md" target="_blank"><img src="https://github.com/bear99a9/don8/blob/main/assets/ezgif.com-gif-maker.gif" 
+alt="Photo Manager Repo" width="300" height="600"/></br>Photo Manager Repo</a>
+</p>
+
 <H1 align='center'>Don8 Makers final project </H1>
 <p align='center'>
-<a href="https://github.com/bear99a9/don8#readme" target="_blank"><img src="https://github.com/bear99a9/don8/blob/main/assets/ezgif.com-gif-maker.gif" 
-alt="Don8 Repo" width="300" height="600"/></br>Don8 Repo</a>
+<a href="https://github.com/bear99a9/don8#readme" target="_blank"></br>Don8 Repo</a>
+</p>
+<p align='center'> 
+  <img src="https://github.com/bear99a9/don8/blob/main/assets/ezgif.com-gif-maker.gif" 
+  alt="Don8 Repo" width="300" height="600"/>
 </p>
 </p>
+
