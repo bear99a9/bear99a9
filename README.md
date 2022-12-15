@@ -5,6 +5,10 @@
 <p  align='center'>
   <a href="https://www.linkedin.com/in/sean-edwards-654a09195/"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
  </p>
+  
+<p  align='center'>
+  <a href="[https://github.com/bear99a9/CV"> <img src="https://media.giphy.com/media/Q5Fp8DviZhYDrEZw5H/giphy.gif" />
+</p>
 
 <h3 align='center'>🛠 Tech Stack</h3>
 <p  align='center'>
