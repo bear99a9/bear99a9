@@ -7,7 +7,7 @@
  </p>
   
 <p  align='center'>
-  <a href="[https://github.com/bear99a9/CV"> <img src="https://media.giphy.com/media/Q5Fp8DviZhYDrEZw5H/giphy.gif" />
+  <a href="https://github.com/bear99a9/CV"> <img src="https://media.giphy.com/media/Q5Fp8DviZhYDrEZw5H/giphy.gif" />
 </p>
 
 <h3 align='center'>🛠 Tech Stack</h3>
