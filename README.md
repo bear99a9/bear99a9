@@ -24,9 +24,11 @@
 - 🔧 &nbsp; AWS | Jira | Azure | Azure DevOps | Visual Studio 2022 | Visual Studio code | Git
 </p>
 </br>
-<p align='center'>
+<!--
+[<p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=bear99a9&show_icons=true&count_private=true&theme=dark" width="350"></a>
-</p>
+</p>]
+-->
 
 <H1 align='center'> Photo Manager </H1>
 <p align='center'>
