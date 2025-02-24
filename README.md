@@ -21,7 +21,7 @@
 - 🛢 &nbsp; SQL | Azure Synaspe | Azure Blob | MongoDB
 </p>
 <p  align='center'>
-- 🔧 &nbsp; Azure | Azure DevOps | Visual Studio 2022 | Visual Studio code | Git
+- 🔧 &nbsp; AWS | Jira | Azure | Azure DevOps | Visual Studio 2022 | Visual Studio code | Git
 </p>
 </br>
 <p align='center'>
